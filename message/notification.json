@@ -1,8 +1,10 @@
 {
   "id": "20260715_01",
-  "title": "آپدیتِ جدید ایریسا",
+  "title": "اطلاعیه مهم ایریسا",
   "text": "نسخه‌ی جدید ایریسا با قابلیتِ پردازشِ سریع‌تر منتشر شد.",
   "priority": "high",
   "target_url": "https://play.google.com/store/apps/details?id=com.irisa.app",
+  "is_notification": true,
+  "is_in_app": true,
   "timestamp": "2026-07-15T22:00:00Z"
 }
