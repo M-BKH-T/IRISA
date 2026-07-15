@@ -1,0 +1,14 @@
+{
+  "min_version_code": 1,
+  "latest_version_code": 1,
+  "app_status": "active",
+  "urls": {
+    "notification_url": "https://raw.githubusercontent.com/M-BKH-T/IRISA/refs/heads/main/message/notification.json",
+    "upload_log_url": "https://irisa.mahdibadrkhani80.workers.dev/",
+    "upload_error_url": "https://irisa.mahdibadrkhani80.workers.dev/"
+  },
+  "settings": {
+    "log_interval_seconds": 3600,
+    "enable_analytics": true
+  }
+}
